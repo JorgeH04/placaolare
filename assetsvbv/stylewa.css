@@ -1,6 +1,9 @@
 .content_cl_wpp{
+    float: right;
+
     display: block;
     position: fixed;
+
     left: 30px;
     right: auto;
     bottom: 30px;
