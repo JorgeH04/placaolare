@@ -1367,3 +1367,10 @@ textarea.form-control {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+
+.texto-justificado {
+  text-align: right;
+  margin: 0 auto;
+  max-width: 600px; /* Ajusta este valor según tus necesidades */
+}
